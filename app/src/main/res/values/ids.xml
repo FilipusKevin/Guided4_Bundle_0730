@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etProgramStudi" type="id" />
+    <item name="etNama" type="id" />
+    <item name="etNim" type="id" />
+    <item name="etFakultas" type="id" />
+    <item name="btnRegister" type="id" />
+    <item name="tvNama" type="id" />
+    <item name="tvNim" type="id" />
+    <item name="tvFakultas" type="id" />
+    <item name="tvProgramStudi" type="id" />
+</resources>
